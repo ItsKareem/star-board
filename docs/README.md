@@ -10,6 +10,7 @@ An LED chaser PCB that uses a NE555 timer (astable mode) and a CD4017 decade cou
 - Custom star-shaped PCB outline
 - Silkscreen art made by me
 - THT components
+  
 I made this project as a qualifying project for [fallout](https://www.fallout.hackclub.com), a hardware hackathon organized by hack club Shenzhen, China.
 
 ### Front:
@@ -20,6 +21,8 @@ I made this project as a qualifying project for [fallout](https://www.fallout.ha
 
 ### PCB:
 <img width="1090" height="831" alt="star-blinky-pcb" src="https://github.com/ItsKareem/star-board/blob/main/images/star-blinky-pcb.png" />
+
+## How it works
 
 Basically, the 555 generates clock pulses which fed into the CD4017, which sequentially activates each LED, creating the chasing animation.
 
