@@ -28,3 +28,6 @@ Basically, the 555 generates clock pulses which fed into the CD4017, which seque
 
 ### Schematic:
 <img width="1280" height="650" alt="star-blinky-header" src="https://github.com/ItsKareem/star-board/blob/main/images/star-blinky-schematic.png" />
+
+### Zine Page:
+<img width="1680" height="2380" alt="star-blinky-zine-page" src="https://github.com/ItsKareem/star-board/blob/main/images/star-blinky-zine-page.png" />
